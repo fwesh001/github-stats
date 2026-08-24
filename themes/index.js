@@ -75,6 +75,12 @@ export const themes = {
     text_color: "38bdae",
     bg_color: "1a1b27",
   },
+  zcodes: {
+    title_color: "ff4d6d",
+    icon_color: "ff4d6d",
+    text_color: "eaeaea",
+    bg_color: "0d1117",
+  },
   onedark: {
     title_color: "e4bf7a",
     icon_color: "8eb573",
